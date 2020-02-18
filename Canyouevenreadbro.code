@@ -1,0 +1,27 @@
+Maths
+- Various Distribution (Beta one especially)
+
+Core-Level Stuff
+- SGX
+- Assembly for x86 and Arm
+
+
+Programming Language
+- Rust  (I know it's will not be easy but it will be worth it (wasm))
+- wasm 
+
+Distributed Systems
+ - Paxos and Raft  (Crash fault)
+ - PBFT DTLS (Byzantine)
+ - Nakamoto , Poet , PoS (Lottery)
+ 
+Graphics and animation
+ - (Not your thing dude)
+ - Play around canvas and threejs if you may !
+ 
+ 
+
+Project ideas 
+- Interactive Raft 
+- Jupyter Android 
+- Rabb.it alt 
